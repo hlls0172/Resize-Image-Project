@@ -1,0 +1,6 @@
+C:\Users\Hill\Documents\Visual Studio 2012\Projects\ConsoleApplication3\pictureResize\bin\Debug\pictureResize.exe.config
+C:\Users\Hill\Documents\Visual Studio 2012\Projects\ConsoleApplication3\pictureResize\bin\Debug\pictureResize.exe
+C:\Users\Hill\Documents\Visual Studio 2012\Projects\ConsoleApplication3\pictureResize\bin\Debug\pictureResize.pdb
+C:\Users\Hill\Documents\Visual Studio 2012\Projects\ConsoleApplication3\pictureResize\obj\Debug\pictureResize.csprojResolveAssemblyReference.cache
+C:\Users\Hill\Documents\Visual Studio 2012\Projects\ConsoleApplication3\pictureResize\obj\Debug\pictureResize.exe
+C:\Users\Hill\Documents\Visual Studio 2012\Projects\ConsoleApplication3\pictureResize\obj\Debug\pictureResize.pdb
